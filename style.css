@@ -614,3 +614,9 @@ svg {
   .sidenav {padding-top: 15px;}
   .sidenav button {font-size: 18px;}
 }
+
+/* width */
+::-webkit-scrollbar {
+  width: 20px;
+}
+
